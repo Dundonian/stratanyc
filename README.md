@@ -1,3 +1,3 @@
-This is the Nordstrom Data Lab presentation for the Strata Conference in NYC October 28-30, 2013.
+This is the Nordstrom Data Lab presentation for the Marketing Analytics Meetup in Seattle on December 17th, 2013.
 
-http://strataconf.com/stratany2013/public/schedule/detail/30707
+http://www.meetup.com/Seattle-Marketing-Analytics-Group/events/143718502/
